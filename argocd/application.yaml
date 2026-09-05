@@ -10,7 +10,7 @@ spec:
   project: k8s-argo-project
 
   source:
-    repoURL: https://github.com/cloud-prakhar/k8s-argo.git
+    repoURL: https://github.com/amyadjs-tech/k8s-argocd-demo.git
     targetRevision: main
     path: apps/nginx
 
